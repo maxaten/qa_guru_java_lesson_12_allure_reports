@@ -22,7 +22,7 @@ public class SelenideTest {
 
         $(linkText("eroshenkoam/allure-example")).click();
         $("#issues-tab").click();
-        $(withText("#012")).should(Condition.exist);
+        $(withText("#81")).should(Condition.exist);
 
 
     }
