@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 31 04:20:21 GMT 2023","Tue Oct 31 04:20:26 GMT 2023","4298","","tests.StepsTest","","tests.StepsTest","testLambdaStep","testLambdaStep()",""
+"failed","Tue Oct 31 04:20:07 GMT 2023","Tue Oct 31 04:20:21 GMT 2023","13657","","tests.SelenideTest","","tests.SelenideTest","testIssueSearch","testIssueSearch()",""
+"passed","Tue Oct 31 04:20:26 GMT 2023","Tue Oct 31 04:20:30 GMT 2023","4431","","tests.StepsTest","","tests.StepsTest","testAnnotated","testAnnotated()",""
