@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 31 04:35:22 GMT 2023","Tue Oct 31 04:35:28 GMT 2023","6283","","tests.AttachmentsTest","","tests.AttachmentsTest","testLambdaStep","testLambdaStep()",""
+"passed","Tue Oct 31 04:35:28 GMT 2023","Tue Oct 31 04:35:30 GMT 2023","1972","","tests.AttachmentsTest","","tests.AttachmentsTest","testAnnotated","testAnnotated()",""
+"passed","Tue Oct 31 04:35:36 GMT 2023","Tue Oct 31 04:35:41 GMT 2023","4441","","tests.StepsTest","","tests.StepsTest","testLambdaStep","testLambdaStep()",""
+"passed","Tue Oct 31 04:35:30 GMT 2023","Tue Oct 31 04:35:30 GMT 2023","6","","tests.LabelsTest","","tests.LabelsTest","testDynamicLabels","Создание issue для авторизованного пользователя",""
+"passed","Tue Oct 31 04:35:30 GMT 2023","Tue Oct 31 04:35:30 GMT 2023","18","","tests.LabelsTest","","tests.LabelsTest","testStaticLabels","Создание issue для авторизованного пользователя",""
+"passed","Tue Oct 31 04:35:30 GMT 2023","Tue Oct 31 04:35:36 GMT 2023","6298","","tests.SelenideTest","","tests.SelenideTest","testIssueSearch","testIssueSearch()",""
+"passed","Tue Oct 31 04:35:41 GMT 2023","Tue Oct 31 04:35:46 GMT 2023","5655","","tests.StepsTest","","tests.StepsTest","testAnnotated","testAnnotated()",""
