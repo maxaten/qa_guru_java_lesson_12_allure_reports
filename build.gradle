@@ -8,13 +8,13 @@ version = '1.0-SNAPSHOT'
 
 allure {
     report {
-        version.set("2.19.0")
+        version.set("2.24.0")
     }
     adapter {
         aspectjWeaver.set(true)
         frameworks{
             junit5{
-                adapterVersion.set("2.19.0")
+                adapterVersion.set("2.24.0")
             }
         }
     }
@@ -40,5 +40,5 @@ tasks.withType(JavaCompile) {
 
 test {
     useJUnitPlatform()
-    SystemProperties(System.getProperties())
+    systemProperties(System.getProperties())
 }
